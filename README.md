@@ -3,7 +3,11 @@
 I'm an investment analyst.
 I am studying data analysis and want to develop in this area.
 
-My contact email yyyysamara@gmail.com
+💬 Contacts
+
+    Telegram: @Oksana_Yam
+    E-mail: job.hands@yandex.ru
+
 
 ⚒️Tech Stack
 
